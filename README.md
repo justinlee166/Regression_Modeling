@@ -52,3 +52,5 @@ The primary objective was to recover the function underlying the dependent varia
 
 ## 📁 Repository Structure
 
+<pre><code>## 📁 Repository Structure ``` AMS315-Project1/ ├── README.md ├── report.tex # LaTeX source for the final report ├── report.pdf # Compiled final report ├── scripts/ │ ├── data_merge.R # Script for merging and imputing data │ └── regression.R # Regression analysis and transformations ├── data/ │ ├── partA/ │ └── partB/ └── plots/ ├── scatter_original.png ├── scatter_iv_dv_transform.png ├── scatter_iv_inverse.png └── scatter_iv2_dv_transform.png ``` </code></pre>
+
