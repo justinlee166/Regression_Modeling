@@ -48,5 +48,8 @@ The primary objective was to recover the function underlying the dependent varia
 - Correlation coefficient of **0.681** suggested a moderately strong positive relationship.
 - Adequate fit confirmed by LOF test (**p = 0.9827**).
 
-
-
+## Contact
+Justin Lee  
+Double Major in Computer Science and Applied Mathematics
+JustinYuilLee@gmail.com
+[LinkedIn](https://www.linkedin.com/in/justinyuillee/)
