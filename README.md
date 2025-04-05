@@ -48,7 +48,8 @@ The primary objective was to recover the function underlying the dependent varia
 - Correlation coefficient of **0.681** suggested a moderately strong positive relationship.
 - Adequate fit confirmed by LOF test (**p = 0.9827**).
 
-<pre><code>## 📁 Repository Structure ``` AMS315-Project1/ ├── data/ │ ├── partA/ │ │ ├── independent.csv # Part A: Independent variable dataset │ │ └── dependent.csv # Part A: Dependent variable dataset │ └── partB/ │ └── full_dataset.csv # Part B: Combined IV/DV dataset ├── plots/ │ ├── scatter_original.png │ ├── scatter_iv_dv_transform.png │ ├── scatter_iv_inverse.png │ └── scatter_iv2_dv_transform.png ├── scripts/ │ ├── data_merge.R # Merges and cleans Part A data │ ├── imputation.R # Handles missing data using MICE │ └── regression_analysis.R # Performs regression & transformations ├── report.tex # LaTeX source for the final report ├── report.pdf # Compiled PDF report └── README.md # This file ``` </code></pre>
+## 📁 Repository Structure
+AMS315-Project1/ ├── data/ │ ├── partA/ │ │ ├── independent.csv # Part A: Independent variable dataset │ │ └── dependent.csv # Part A: Dependent variable dataset │ └── partB/ │ └── full_dataset.csv # Part B: Combined IV/DV dataset ├── plots/ │ ├── scatter_original.png │ ├── scatter_iv_dv_transform.png │ ├── scatter_iv_inverse.png │ └── scatter_iv2_dv_transform.png ├── scripts/ │ ├── data_merge.R # Merges and cleans Part A data │ ├── imputation.R # Handles missing data using MICE │ └── regression_analysis.R # Performs regression & transformations ├── report.tex # LaTeX source for the final report ├── report.pdf # Compiled PDF report └── README.md # This file
 
 ## Contact
 Justin Lee  
