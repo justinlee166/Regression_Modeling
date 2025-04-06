@@ -1,13 +1,11 @@
-# AMS 315 Project 1: Data Imputation and Regression Modeling
+# Regression Modeling
 
 **Author:** Justin Lee  
-**Course:** AMS 315 - Data Analysis, Spring 2024  
-**Instructor:** Professor Yan Yu
 
 ---
 
 ## 📌 Overview
-This repository contains my solutions and analysis for the AMS 315 Project 1 assignment, focused on linear regression, data imputation, and exploratory analysis with transformations. The assignment consists of two main parts, emphasizing the handling of missing data and functional form recovery using regression analysis.
+This repository contains my solutions and analysis focused on linear regression, data imputation, and exploratory analysis with transformations. The assignment consists of two main parts, emphasizing the handling of missing data and functional form recovery using regression analysis.
 
 ---
 
